@@ -58,10 +58,8 @@ setup(
     install_requires=[
         "setuptools",
         "xacro",
-        "pybullet",
         "importlib_resources",
         "meshcat",
-        "bullet_utils",
     ],
     zip_safe=True,
     maintainer="mnaveau",
